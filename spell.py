@@ -1,3 +1,3 @@
-# spell.py - учебный файл
-power = 5
-rint(f"сила:{power}")
+# spell.py - итоговая версия: конфликт разрешен
+power = 999
+print(f"сила: {power}")
