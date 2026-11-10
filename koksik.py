@@ -1,3 +1,3 @@
  
-power=777
+power=555
 print(f"Сила: {power}")
